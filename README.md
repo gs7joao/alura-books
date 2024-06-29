@@ -23,10 +23,6 @@
 - Estados
 - Props
 
-## Tecnologias
-
-[![My Skills](https://skills.thijs.gg/icons?i=react,css)](https://skills.thijs.gg)
-
 
 ## Contato
 
